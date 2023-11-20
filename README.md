@@ -1,4 +1,4 @@
-### Hi there,
+### Hi there, I'm ZED
 
 - 🔭 I’m currently working on improving my previous projects
 - 🌱 I’m currently learning Docker
